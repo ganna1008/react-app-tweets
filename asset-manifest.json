@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/react-app-tweets/static/css/main.073c9b0a.css",
-    "main.js": "/react-app-tweets/static/js/main.90e6fdf1.js",
-    "static/js/787.da6db1b4.chunk.js": "/react-app-tweets/static/js/787.da6db1b4.chunk.js",
-    "static/media/logo.svg": "/react-app-tweets/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-app-tweets/static/css/main.b00c5331.css",
+    "main.js": "/react-app-tweets/static/js/main.e3809bca.js",
+    "static/js/415.1b25565f.chunk.js": "/react-app-tweets/static/js/415.1b25565f.chunk.js",
+    "static/js/362.59797b44.chunk.js": "/react-app-tweets/static/js/362.59797b44.chunk.js",
+    "static/js/323.9a78286b.chunk.js": "/react-app-tweets/static/js/323.9a78286b.chunk.js",
+    "static/media/bg-pic.svg": "/react-app-tweets/static/media/bg-pic.23dcbc3cc8ccc9682f24b4acffb5efb2.svg",
+    "static/media/Logo.svg": "/react-app-tweets/static/media/Logo.e917114d7945c04c85a8946a331d28b6.svg",
+    "static/media/avatar-stroke.svg": "/react-app-tweets/static/media/avatar-stroke.802a4dfd60e26327f61238cddaf4addb.svg",
     "index.html": "/react-app-tweets/index.html",
-    "main.073c9b0a.css.map": "/react-app-tweets/static/css/main.073c9b0a.css.map",
-    "main.90e6fdf1.js.map": "/react-app-tweets/static/js/main.90e6fdf1.js.map",
-    "787.da6db1b4.chunk.js.map": "/react-app-tweets/static/js/787.da6db1b4.chunk.js.map"
+    "main.b00c5331.css.map": "/react-app-tweets/static/css/main.b00c5331.css.map",
+    "main.e3809bca.js.map": "/react-app-tweets/static/js/main.e3809bca.js.map",
+    "415.1b25565f.chunk.js.map": "/react-app-tweets/static/js/415.1b25565f.chunk.js.map",
+    "362.59797b44.chunk.js.map": "/react-app-tweets/static/js/362.59797b44.chunk.js.map",
+    "323.9a78286b.chunk.js.map": "/react-app-tweets/static/js/323.9a78286b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.90e6fdf1.js"
+    "static/css/main.b00c5331.css",
+    "static/js/main.e3809bca.js"
   ]
 }
