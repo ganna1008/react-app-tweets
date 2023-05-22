@@ -22,6 +22,6 @@ The markup ist done according
 
 # Difficulties
 
-I have had the Problems with a rendering Components, in Component "user" occurs a fetch on backend
+I have had the problems with a rendering Components, in Component "user" occurs a fetch on backend
 by first render, that we not need. Despite all my tries I didn't fixed that. I also didn't do the
 additional tasks, because of time. Its very sad.
